@@ -1,0 +1,13 @@
+{
+  "key.categories.flashback_discord": "Flashback: дорожка Discord",
+  "key.flashback_discord.toggle": "Вкл/выкл дорожку Discord",
+  "flashback_discord.enabled": "Запись дорожки Discord: ВКЛ",
+  "flashback_discord.disabled": "Запись дорожки Discord: ВЫКЛ",
+  "flashback_discord.muted": "Дорожка Discord в реплее: выключена",
+  "flashback_discord.unmuted": "Дорожка Discord в реплее: включена",
+  "flashback_discord.hud.recording": "Discord",
+  "flashback_discord.hud.muted": "Discord выкл",
+  "flashback_discord.hud.playing": "Discord",
+  "flashback_discord.command.test": "Захват звука Discord на %s с — смотрите индикатор в левом верхнем углу",
+  "flashback_discord.command.status": "Дорожка Discord: запись %s, источник %s (%s), качество %s Гц, усиление %s%%, громкость %s%%, воспроизведение %s, в звук видео %s, отдельный WAV %s"
+}

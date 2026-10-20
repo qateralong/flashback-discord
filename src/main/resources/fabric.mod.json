@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "flashback_discord",
+  "version": "${version}",
+  "name": "Flashback Discord Track",
+  "description": "Records Discord audio as a separate track in Flashback replays, plays it back in the editor and exports it.",
+  "authors": [
+    "qateralong"
+  ],
+  "license": "All Rights Reserved",
+  "icon": "assets/flashback_discord/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.qateralong.fbdiscord.FlashbackDiscord"
+    ]
+  },
+  "mixins": [
+    "flashback_discord.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "flashback": ">=0.39.0"
+  }
+}

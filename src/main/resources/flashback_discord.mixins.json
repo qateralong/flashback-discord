@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.qateralong.fbdiscord.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ExportJobMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

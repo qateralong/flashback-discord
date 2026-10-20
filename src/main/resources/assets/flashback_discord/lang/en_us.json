@@ -1,0 +1,13 @@
+{
+  "key.categories.flashback_discord": "Flashback Discord Track",
+  "key.flashback_discord.toggle": "Toggle Discord track",
+  "flashback_discord.enabled": "Discord track recording: ON",
+  "flashback_discord.disabled": "Discord track recording: OFF",
+  "flashback_discord.muted": "Discord track playback: muted",
+  "flashback_discord.unmuted": "Discord track playback: on",
+  "flashback_discord.hud.recording": "Discord",
+  "flashback_discord.hud.muted": "Discord muted",
+  "flashback_discord.hud.playing": "Discord",
+  "flashback_discord.command.test": "Capturing Discord audio for %s s, watch the meter in the top left corner",
+  "flashback_discord.command.status": "Discord track: recording %s, source %s (%s), quality %s Hz, gain %s%%, volume %s%%, playback %s, mix into export %s, separate WAV %s"
+}
